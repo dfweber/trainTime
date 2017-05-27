@@ -1,0 +1,29 @@
+body {
+	background-image: url("../images/background.jpg");
+	height: 100%;
+
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#heroArea {
+	background-color: transparent;
+	padding: 20px 0;
+}
+
+#cta {
+	color: #fff;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-weight: 900;
+    text-shadow: 3px 4px 10px #fff;
+}
+
+#currentTime {
+	font-weight: 600;
+}
+
+#formStyle {
+	padding: 15px;
+}
